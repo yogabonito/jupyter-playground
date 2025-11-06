@@ -42,3 +42,9 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly~=6.3.0
 # bqplot
+
+# for data sources and data quality course
+deltalake~=1.2.0
+ydata-profiling~=4.10.0
+great-expectations~=1.1.0
+streamlit~=1.39.0
