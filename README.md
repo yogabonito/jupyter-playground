@@ -1,3 +1,7 @@
+Check out the playground [here](https://jupyter-playground.netlify.app/notebooks/index.html?path=playground.ipynb).
+
+---
+
 # JupyterLite Demo
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
